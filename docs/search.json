@@ -1,0 +1,247 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Qui tricote, qui pêche ?",
+    "section": "",
+    "text": "Tout le monde a une intuition : le tricot, c’est plutôt féminin. Les jeux vidéo, plutôt masculin. La cuisine ? Ça dépend. Mais comment mesurer cette intuition rigoureusement ? Et que se passe-t-il quand on dépasse la simple opposition hommes/femmes ?"
+  },
+  {
+    "objectID": "index.html#certaines-activités-sont-elles-vraiment-pour-les-femmes-ou-pour-les-hommes",
+    "href": "index.html#certaines-activités-sont-elles-vraiment-pour-les-femmes-ou-pour-les-hommes",
+    "title": "Qui tricote, qui pêche ?",
+    "section": "",
+    "text": "Tout le monde a une intuition : le tricot, c’est plutôt féminin. Les jeux vidéo, plutôt masculin. La cuisine ? Ça dépend. Mais comment mesurer cette intuition rigoureusement ? Et que se passe-t-il quand on dépasse la simple opposition hommes/femmes ?"
+  },
+  {
+    "objectID": "index.html#ce-projet-en-trois-questions",
+    "href": "index.html#ce-projet-en-trois-questions",
+    "title": "Qui tricote, qui pêche ?",
+    "section": "Ce projet en trois questions",
+    "text": "Ce projet en trois questions\n\n\n🎯 La question de départ\nLes pratiques culturelles sont-elles ségrégées par le genre — et si oui, comment le mesurer ?\n→ Ce qu’on sait déjà\n\n\n📏 Le problème de mesure\nL’outil standard (l’indice de Duncan) compare hommes et femmes comme deux groupes homogènes. Mais l’identité de genre est un spectre, pas une case à cocher.\n→ L’indice de Duncan expliqué\n\n\n💡 Notre proposition\nRemplacer la variable binaire par un indice continu d’identité. Certaines pratiques changent de rang. Pourquoi ?\n→ Les résultats"
+  },
+  {
+    "objectID": "index.html#un-exemple-pour-commencer",
+    "href": "index.html#un-exemple-pour-commencer",
+    "title": "Qui tricote, qui pêche ?",
+    "section": "Un exemple pour commencer",
+    "text": "Un exemple pour commencer\nImaginez trois personnes :\n\n  \n    \n      0,12\n      identité\n    \n    Alex — femme, tricote, cuisine, jardinage ornemental\n  \n  \n    \n      0,48\n      identité\n    \n    Sam — homme, cuisine, photographie, jardinage potager\n  \n  \n    \n      0,91\n      identité\n    \n    Jordan — homme, jeux vidéo, bricolage, pêche\n  \n\nL’indice de Duncan compare Alex et Sam au même titre — ils sont tous les deux classés « homme ». Notre indice continu voit que Sam (0,48) et Jordan (0,91) ont des profils très différents."
+  },
+  {
+    "objectID": "index.html#comment-naviguer-sur-ce-site",
+    "href": "index.html#comment-naviguer-sur-ce-site",
+    "title": "Qui tricote, qui pêche ?",
+    "section": "Comment naviguer sur ce site",
+    "text": "Comment naviguer sur ce site\nCe site est conçu pour être lu dans l’ordre, mais chaque page est autonome.\n\n\n\nPage\nPour qui ?\nDurée\n\n\n\n\nLittérature\nCurieux·ses des sciences sociales\n~5 min\n\n\nIndice de Duncan\nTout le monde\n~5 min\n\n\nMesurer l’identité\nIntéressé·es par la méthode\n~8 min\n\n\nIndice continu\nIdem\n~8 min\n\n\nRésultats\nTout le monde\n~5 min\n\n\n\n\n\n\n\n\n\nNoteÀ propos des données\n\n\n\nCe projet utilise l’Enquête sur les Pratiques Culturelles du ministère de la Culture. L’échantillon comprend plusieurs milliers de répondants. Le code est entièrement reproductible et disponible sur GitHub."
+  },
+  {
+    "objectID": "identite.html",
+    "href": "identite.html",
+    "title": "Mesurer l’identité de genre",
+    "section": "",
+    "text": "Dans les enquêtes classiques, le genre est une variable à deux modalités : homme / femme. C’est pratique pour les statistiques, mais c’est une simplification du réel. L’identité de genre est mieux décrite comme un spectre continu allant d’un pôle féminin à un pôle masculin — avec la plupart des individus quelque part entre les deux.\n\n  \n    \n      \n        \n        \n        \n      \n    \n    \n    Pôle féminin\n    Pôle masculin\n    \n    «femmes»\n    \n    «hommes»\n    \n    \n    \n    \n    \n    \n    \n  \n  \n    Les individus sont dispersés sur tout le spectre — y compris des femmes proches du pôle masculin \n    et des hommes proches du pôle féminin."
+  },
+  {
+    "objectID": "identite.html#le-problème-lidentité-nest-pas-binaire",
+    "href": "identite.html#le-problème-lidentité-nest-pas-binaire",
+    "title": "Mesurer l’identité de genre",
+    "section": "",
+    "text": "Dans les enquêtes classiques, le genre est une variable à deux modalités : homme / femme. C’est pratique pour les statistiques, mais c’est une simplification du réel. L’identité de genre est mieux décrite comme un spectre continu allant d’un pôle féminin à un pôle masculin — avec la plupart des individus quelque part entre les deux.\n\n  \n    \n      \n        \n        \n        \n      \n    \n    \n    Pôle féminin\n    Pôle masculin\n    \n    «femmes»\n    \n    «hommes»\n    \n    \n    \n    \n    \n    \n    \n  \n  \n    Les individus sont dispersés sur tout le spectre — y compris des femmes proches du pôle masculin \n    et des hommes proches du pôle féminin."
+  },
+  {
+    "objectID": "identite.html#comment-construire-un-indice-continu-à-partir-des-pratiques",
+    "href": "identite.html#comment-construire-un-indice-continu-à-partir-des-pratiques",
+    "title": "Mesurer l’identité de genre",
+    "section": "Comment construire un indice continu à partir des pratiques ?",
+    "text": "Comment construire un indice continu à partir des pratiques ?\nL’idée centrale : si certaines pratiques sont très typiquement masculines et d’autres très typiquement féminines, alors le profil de pratiques d’un individu révèle sa position sur le spectre identitaire.\nQuelqu’un qui tricote, cuisine et tient un journal intime a un profil de pratiques typiquement féminin → position proche du pôle féminin. Quelqu’un qui joue aux jeux vidéo, fait du bricolage et pêche → position proche du pôle masculin.\nCette intuition est formalisée par une méthode statistique appelée Analyse des Correspondances Multiples (ACM)."
+  },
+  {
+    "objectID": "identite.html#lacm-en-trois-étapes",
+    "href": "identite.html#lacm-en-trois-étapes",
+    "title": "Mesurer l’identité de genre",
+    "section": "L’ACM en trois étapes",
+    "text": "L’ACM en trois étapes\n\n\n  \n    1\n    \n      On part des 24 pratiques\n      Chaque individu est décrit par 24 variables binaires : fait / ne fait pas chaque pratique.\n      \n        \n          TricotJeux vidéoCuisinePêche\n        \n        Alex1010\n        Sam0110\n        Jordan0101\n      \n    \n  \n\n  ↓\n\n  \n    2\n    \n      L'ACM trouve la structure dominante\n      La méthode cherche l'axe qui résume le mieux les co-participations. Le premier axe capture la principale opposition dans les données.\n      \n        \n          \n            \n            \n          \n        \n        \n        \n        Tricot\n        Cuisine\n        Jeux vidéo\n        Pêche\n        \n        \n        \n        \n        ← axe principal de l'ACM →\n      \n    \n  \n\n  ↓\n\n  \n    3\n    \n      On projette chaque individu sur cet axe\n      Chaque répondant reçoit un score entre 0 (pôle féminin) et 1 (pôle masculin). C'est son indice d'identité continu."
+  },
+  {
+    "objectID": "identite.html#deux-indices-disponibles-dans-ce-projet",
+    "href": "identite.html#deux-indices-disponibles-dans-ce-projet",
+    "title": "Mesurer l’identité de genre",
+    "section": "Deux indices disponibles dans ce projet",
+    "text": "Deux indices disponibles dans ce projet\nDans cette recherche, deux méthodes ont été utilisées pour construire l’indice continu.\n\n\n\n\n\n\nWarningAttention aux orientations\n\n\n\nLes deux indices n’ont pas la même orientation :\n\nindice_ACM_norm : 0 = féminin, 1 = masculin\nscore_LASSO_norm (brut) : 0 = masculin, 1 = féminin ← sens inverse !\n\nPour les comparer, on utilise 1 − score_LASSO_norm, ce qui le remet dans le même sens que l’ACM.\n\n\n\n\nindice_ACM_norm\nAnalyse des Correspondances Multiples\n\nMéthode exploratoire : l’axe émerge des données\nCapture la structure globale des co-participations\n0 = pôle féminin · 1 = pôle masculin\n\n→ Détails sur le site dédié à la construction des indices\n\n\nscore_LASSO_norm\nRégression LASSO\n\nMéthode supervisée : prédit le sexe déclaré\nSélectionne les pratiques les plus discriminantes\n0 = pôle masculin · 1 = pôle féminin ← inversé !\n\n→ Pour comparer, on utilise 1 − score_LASSO_norm"
+  },
+  {
+    "objectID": "identite.html#une-validation-graphique",
+    "href": "identite.html#une-validation-graphique",
+    "title": "Mesurer l’identité de genre",
+    "section": "Une validation graphique",
+    "text": "Une validation graphique\nLes deux distributions (une fois le LASSO réorienté) doivent montrer les femmes concentrées à gauche et les hommes à droite — avec un chevauchement substantiel.\n\n\n\n\n\nDistribution des deux indices selon le genre binaire. Le score LASSO est réorienté (1 − score) pour que 0 = féminin et 1 = masculin dans les deux cas.\n\n\n\n\nLe chevauchement entre les deux distributions justifie le passage au continu : une part substantielle des répondants occupe des positions que leur genre déclaré ne prédit pas.\n→ L’indice continu de ségrégation"
+  },
+  {
+    "objectID": "resultats.html",
+    "href": "resultats.html",
+    "title": "Résultats principaux",
+    "section": "",
+    "text": "Le graphique ci-dessous présente les 24 pratiques classées par leur indice de ségrégation continu \\(\\beta_k\\). Plus une pratique est à gauche, plus elle est associée au pôle féminin du spectre identitaire. Plus elle est à droite, plus elle est associée au pôle masculin. Les barres horizontales montrent l’incertitude statistique (intervalles de confiance à 95 %).\n\n\n\n\n\nClassement des 24 pratiques culturelles par l’indice de ségrégation continu. Les points encerclés changent de rang d’au moins 3 positions par rapport à l’indice de Duncan."
+  },
+  {
+    "objectID": "resultats.html#le-classement-complet-des-24-pratiques",
+    "href": "resultats.html#le-classement-complet-des-24-pratiques",
+    "title": "Résultats principaux",
+    "section": "",
+    "text": "Le graphique ci-dessous présente les 24 pratiques classées par leur indice de ségrégation continu \\(\\beta_k\\). Plus une pratique est à gauche, plus elle est associée au pôle féminin du spectre identitaire. Plus elle est à droite, plus elle est associée au pôle masculin. Les barres horizontales montrent l’incertitude statistique (intervalles de confiance à 95 %).\n\n\n\n\n\nClassement des 24 pratiques culturelles par l’indice de ségrégation continu. Les points encerclés changent de rang d’au moins 3 positions par rapport à l’indice de Duncan."
+  },
+  {
+    "objectID": "resultats.html#les-grandes-catégories-qui-émergent",
+    "href": "resultats.html#les-grandes-catégories-qui-émergent",
+    "title": "Résultats principaux",
+    "section": "Les grandes catégories qui émergent",
+    "text": "Les grandes catégories qui émergent\n\n\n  \n    🧶 Fortement féminines\n    Tricot, Poterie, Danse, Cuisine, Journal intime\n    Ces pratiques sont très fortement associées au pôle féminin. Même en contrôlant pour la position identitaire au sein du groupe des femmes, l'effet est massif.\n  \n\n  \n    🎨 Tendance féminine\n    Peinture, Jardinage ornemental, Écriture, Jardinage potager, Dessin\n    Pratiques à connotation féminine mais avec davantage de mixité. L'écart identitaire est réel mais moins prononcé.\n  \n\n  \n    🎵 Neutres\n    Musique, Théâtre\n    Ces pratiques ne semblent pas structurées par l'identité de genre. La participation est indépendante de la position sur le spectre.\n  \n\n  \n    📷 Tendance masculine\n    Généalogie, Bricolage, Photographie, Jeux de cartes\n    Légère association avec le pôle masculin, avec une hétérogénéité notable.\n  \n\n  \n    🎮 Fortement masculines\n    Collection, Sciences, Jeux d'argent, Arts du cirque, Montage vidéo, Pêche/Chasse, Jeux vidéo, Customisation auto\n    Ces pratiques sont très fortement associées au pôle masculin du spectre identitaire."
+  },
+  {
+    "objectID": "resultats.html#le-résultat-surprenant-ce-que-duncan-ne-voyait-pas",
+    "href": "resultats.html#le-résultat-surprenant-ce-que-duncan-ne-voyait-pas",
+    "title": "Résultats principaux",
+    "section": "Le résultat surprenant : ce que Duncan ne voyait pas",
+    "text": "Le résultat surprenant : ce que Duncan ne voyait pas\n\n\n\n\n\nLes deux indices comparés. Les points éloignés de la diagonale sont les pratiques où le choix de la mesure change le verdict."
+  },
+  {
+    "objectID": "resultats.html#les-cas-les-plus-instructifs",
+    "href": "resultats.html#les-cas-les-plus-instructifs",
+    "title": "Résultats principaux",
+    "section": "Les cas les plus instructifs",
+    "text": "Les cas les plus instructifs\n\n\n  \n    🎣\n    \n      Pêche/Chasse — le cas silencieux\n      \n        Duncan dit : écart modéré (peu de pratiquants, taux proches entre hommes et femmes).\n        L'indice continu dit : pratique très fortement masculine (β ≈ +10).\n        Pourquoi ? Parce que presque personne ne pêche — mais parmi ceux qui le font, \n        c'est presque exclusivement des personnes à très forte identité masculine. \n        Le signal identitaire est réel, mais Duncan le manque parce que les taux sont trop bas.\n      \n    \n  \n\n  \n    🍳\n    \n      Cuisine — plus féminine qu'il n'y paraît\n      \n        Duncan dit : écart féminin modéré (beaucoup de femmes cuisinent, mais aussi beaucoup d'hommes).\n        L'indice continu dit : pratique nettement plus féminine (β ≈ −4,4).\n        Pourquoi ? Au sein même du groupe des femmes, \n        celles qui ont une identité très féminine cuisinent bien davantage que celles \n        plus proches du pôle masculin. Cette hétérogénéité intra-groupe est invisible pour Duncan.\n      \n    \n  \n\n  \n    🎵\n    \n      Musique — vraiment neutre\n      \n        Duncan dit : écart quasi nul (hommes et femmes pratiquent autant).\n        L'indice continu dit : la même chose (β ≈ −0,3, non significatif).\n        Ici, les deux indices s'accordent : la musique est genuinement neutre sur le spectre identitaire. \n        Ce n'est pas une pratique \"mixte par compensation\" — c'est une pratique universelle."
+  },
+  {
+    "objectID": "resultats.html#ce-que-ça-change-pour-comprendre-la-ségrégation",
+    "href": "resultats.html#ce-que-ça-change-pour-comprendre-la-ségrégation",
+    "title": "Résultats principaux",
+    "section": "Ce que ça change pour comprendre la ségrégation",
+    "text": "Ce que ça change pour comprendre la ségrégation\n\n\n\n\n\n\nImportantLe message principal\n\n\n\nTraiter le genre comme binaire sous-estime la ségrégation identitaire des pratiques rares, et sur-estime la neutralité des pratiques fréquentes où les hommes et les femmes participent de manière similaire mais pour des raisons identitaires différentes.\n\n\nEn d’autres termes : même quand les taux de participation sont équilibrés, l’identité structure les pratiques. Comprendre pourquoi certaines personnes font certaines choses — et pas d’autres — demande de regarder au-delà de la case à cocher."
+  },
+  {
+    "objectID": "resultats.html#pour-aller-plus-loin",
+    "href": "resultats.html#pour-aller-plus-loin",
+    "title": "Résultats principaux",
+    "section": "Pour aller plus loin",
+    "text": "Pour aller plus loin\nCe projet est un premier pas. Les pistes ouvertes incluent :\n\nValider l’indice sur des données externes (attitudes de genre, emploi du temps)\nAjouter des contrôles socio-démographiques (âge, diplôme, CSP) pour isoler l’effet pur de l’identité\nIntégrer les résultats dans un modèle d’utilité identitaire à la Akerlof & Kranton pour quantifier le “coût de déviation”\n\n\n\n\n\n\n\nNoteCode et données\n\n\n\nLe code complet est disponible sur GitHub. Toutes les analyses sont reproductibles avec R et Quarto."
+  },
+  {
+    "objectID": "indice-continu.html",
+    "href": "indice-continu.html",
+    "title": "L’indice continu de ségrégation",
+    "section": "",
+    "text": "L’indice de Duncan compare deux moyennes : le taux de participation des hommes vs celui des femmes. Notre indice pose une question différente :\n\nLa participation à cette pratique augmente-t-elle ou diminue-t-elle régulièrement quand on se déplace du pôle féminin vers le pôle masculin du spectre identitaire ?\n\n\n  \n    \n    \n      \n      \n      Femmes\n      Hommes\n      \n      D\n    \n    Deux boîtes → une différence\n  \n  \n    \n    \n      \n        \n          \n          \n        \n      \n      \n      \n      pôle féminin\n      pôle masculin\n      P(pratique) ↑\n    \n    Un spectre → une pente"
+  },
+  {
+    "objectID": "indice-continu.html#du-binaire-au-continu-lidée",
+    "href": "indice-continu.html#du-binaire-au-continu-lidée",
+    "title": "L’indice continu de ségrégation",
+    "section": "",
+    "text": "L’indice de Duncan compare deux moyennes : le taux de participation des hommes vs celui des femmes. Notre indice pose une question différente :\n\nLa participation à cette pratique augmente-t-elle ou diminue-t-elle régulièrement quand on se déplace du pôle féminin vers le pôle masculin du spectre identitaire ?\n\n\n  \n    \n    \n      \n      \n      Femmes\n      Hommes\n      \n      D\n    \n    Deux boîtes → une différence\n  \n  \n    \n    \n      \n        \n          \n          \n        \n      \n      \n      \n      pôle féminin\n      pôle masculin\n      P(pratique) ↑\n    \n    Un spectre → une pente"
+  },
+  {
+    "objectID": "indice-continu.html#la-formule-expliquée-simplement",
+    "href": "indice-continu.html#la-formule-expliquée-simplement",
+    "title": "L’indice continu de ségrégation",
+    "section": "La formule, expliquée simplement",
+    "text": "La formule, expliquée simplement\nL’indice \\(\\beta_k\\) est calculé par une régression logistique :\n\\[\\Pr(\\text{pratiquer } k) = \\frac{1}{1 + e^{-(\\alpha_k + \\beta_k \\cdot \\hat{\\iota}_i)}}\\]\n\n\n\n\n\n\nNoteCe que ça signifie en clair\n\n\n\nOn cherche la pente qui prédit le mieux la participation à la pratique \\(k\\) à partir de la position identitaire \\(\\hat{\\iota}_i\\) (avec 0 = pôle féminin, 1 = pôle masculin dans les deux cas).\nCette pente, c’est \\(\\beta_k\\) — notre indice de ségrégation.\n\n\nInterprétation de \\(\\beta_k\\) :\n\n  \n    β ≪ 0\n    Pratique fortement féminineex : tricot (β ≈ −19)\n  \n  \n    β &lt; 0\n    Pratique à tendance féminineex : peinture (β ≈ −4)\n  \n  \n    β ≈ 0\n    Pratique neutreex : musique, théâtre\n  \n  \n    β &gt; 0\n    Pratique à tendance masculineex : bricolage (β ≈ +1,4)\n  \n  \n    β ≫ 0\n    Pratique fortement masculineex : customisation (β ≈ +19)"
+  },
+  {
+    "objectID": "indice-continu.html#pourquoi-les-valeurs-semblent-grandes",
+    "href": "indice-continu.html#pourquoi-les-valeurs-semblent-grandes",
+    "title": "L’indice continu de ségrégation",
+    "section": "Pourquoi les valeurs semblent grandes ?",
+    "text": "Pourquoi les valeurs semblent grandes ?\nVous avez peut-être remarqué que certains \\(\\beta_k\\) semblent très élevés (±19). C’est normal et attendu : l’indice d’identité \\(\\hat{\\iota}_i\\) est normalisé entre 0 et 1. Un \\(\\beta_k = +19\\) signifie donc que passer du pôle le plus féminin au pôle le plus masculin multiplie les odds de pratiquer l’activité par \\(e^{19} \\approx 180\\) millions. Pour une pratique aussi genrée que la customisation automobile, c’est cohérent."
+  },
+  {
+    "objectID": "indice-continu.html#tester-les-deux-indices-acm-ou-lasso",
+    "href": "indice-continu.html#tester-les-deux-indices-acm-ou-lasso",
+    "title": "L’indice continu de ségrégation",
+    "section": "Tester les deux indices : ACM ou LASSO ?",
+    "text": "Tester les deux indices : ACM ou LASSO ?\n\n\n\n\n\n\nWarningRappel sur les orientations\n\n\n\nLe score LASSO brut est orienté en sens inverse de l’ACM (0 = masculin, 1 = féminin). Nous utilisons ici 1 − score_LASSO_norm pour que les deux indices soient comparables : 0 = féminin, 1 = masculin dans les deux cas.\n\n\n\n\n\n\n\nComparaison des deux indices de ségrégation β — ACM vs LASSO réorienté (1 − brut). Les deux indices sont maintenant dans le même sens : 0 = féminin, 1 = masculin. Les points proches de la diagonale indiquent un accord entre les deux méthodes.\n\n\n\n\n\n\n\n\n\n\nTipComment lire ce graphique\n\n\n\n\nPoints sur la diagonale : les deux méthodes sont d’accord sur la direction et l’intensité\nPoints au-dessus : le LASSO juge la pratique plus masculine que l’ACM\nPoints en dessous : l’ACM juge la pratique plus masculine que le LASSO\nLes quatre quadrants correspondent aux cas où les deux indices s’accordent (Q1 = masculine/masculine, Q3 = féminine/féminine) ou divergent (Q2/Q4)\n\n\n\n→ Voir les résultats principaux"
+  },
+  {
+    "objectID": "litterature.html",
+    "href": "litterature.html",
+    "title": "Ce qu’on sait",
+    "section": "",
+    "text": "Lorsque l’on demande aux Français quelles activités ils pratiquent pendant leurs loisirs, les réponses diffèrent systématiquement selon le genre. Ce n’est pas une surprise — mais l’ampleur et la persistance de ces différences méritent d’être documentées.\nDepuis les années 1970, le ministère de la Culture conduit régulièrement l’Enquête sur les Pratiques Culturelles des Français. Les travaux d’Olivier Donnat sur ces enquêtes montrent un double mouvement : des écarts de genre persistants dans de nombreux domaines, et une féminisation progressive de certaines pratiques autrefois à dominante masculine (la lecture, certaines sorties culturelles).\n\n\n\n\n\n\nNoteRéférence clé\n\n\n\nDonnat, O. (2005). La féminisation des pratiques culturelles. In Maruani (dir.), Femmes, genre et sociétés. La Découverte."
+  },
+  {
+    "objectID": "litterature.html#les-pratiques-culturelles-ne-sont-pas-neutres",
+    "href": "litterature.html#les-pratiques-culturelles-ne-sont-pas-neutres",
+    "title": "Ce qu’on sait",
+    "section": "",
+    "text": "Lorsque l’on demande aux Français quelles activités ils pratiquent pendant leurs loisirs, les réponses diffèrent systématiquement selon le genre. Ce n’est pas une surprise — mais l’ampleur et la persistance de ces différences méritent d’être documentées.\nDepuis les années 1970, le ministère de la Culture conduit régulièrement l’Enquête sur les Pratiques Culturelles des Français. Les travaux d’Olivier Donnat sur ces enquêtes montrent un double mouvement : des écarts de genre persistants dans de nombreux domaines, et une féminisation progressive de certaines pratiques autrefois à dominante masculine (la lecture, certaines sorties culturelles).\n\n\n\n\n\n\nNoteRéférence clé\n\n\n\nDonnat, O. (2005). La féminisation des pratiques culturelles. In Maruani (dir.), Femmes, genre et sociétés. La Découverte."
+  },
+  {
+    "objectID": "litterature.html#pourquoi-ces-différences-existent-elles",
+    "href": "litterature.html#pourquoi-ces-différences-existent-elles",
+    "title": "Ce qu’on sait",
+    "section": "Pourquoi ces différences existent-elles ?",
+    "text": "Pourquoi ces différences existent-elles ?\nTrois types d’explications dominent dans la littérature :\n\n\n\n  🏠\n  La socialisation\n  Dès l'enfance, les filles et les garçons sont orientés vers des activités différentes. Le tricot s'apprend des grands-mères, le bricolage des grands-pères. Ces transmissions reproduisent les normes de genre.\n\n\n\n  ⏰\n  Le temps disponible\n  Les femmes consacrent en moyenne plus de temps aux tâches domestiques, ce qui contraint leurs loisirs. Certaines pratiques (pêche, jeux vidéo) demandent du temps libre en blocs — inégalement réparti.\n\n\n\n  🪞\n  L'identité\n  Selon Akerlof & Kranton (2000), les individus tirent une utilité du fait d'agir conformément à leur identité de genre. Pratiquer une activité \"atypique\" a un coût identitaire — ce qui décourage certains choix."
+  },
+  {
+    "objectID": "litterature.html#lapport-de-la-théorie-économique-de-lidentité",
+    "href": "litterature.html#lapport-de-la-théorie-économique-de-lidentité",
+    "title": "Ce qu’on sait",
+    "section": "L’apport de la théorie économique de l’identité",
+    "text": "L’apport de la théorie économique de l’identité\nEn 2000, les économistes George Akerlof et Rachel Kranton publient un article fondateur : “Economics and Identity”. Leur idée centrale : les individus ont une identité (femme, homme, mais aussi profession, religion…) et tirent une satisfaction du fait d’agir conformément aux normes associées à cette identité.\n\n  \n    Utilité = gains économiques − coût de déviation par rapport à la norme\n  \n  \n    Si une femme pratique un sport « masculin », elle en tire les bénéfices (plaisir, santé) \n    mais supporte aussi un coût : le regard des autres, la dissonance avec son identité perçue.\n  \n\nCette théorie prédit exactement ce qu’on observe : les pratiques culturelles sont triées selon leur conformité aux normes de genre, et les individus les plus attachés à ces normes s’y conforment davantage."
+  },
+  {
+    "objectID": "litterature.html#ce-quon-ne-sait-pas-encore",
+    "href": "litterature.html#ce-quon-ne-sait-pas-encore",
+    "title": "Ce qu’on sait",
+    "section": "Ce qu’on ne sait pas encore",
+    "text": "Ce qu’on ne sait pas encore\nMalgré cette littérature riche, deux lacunes persistent :\n1. Le genre est traité comme binaire. Presque toutes les études comparent des moyennes entre hommes et femmes. Mais l’identité de genre est un spectre — deux hommes peuvent avoir des identités très différentes.\n2. Les pratiques culturelles restent peu étudiées par rapport à l’emploi. La ségrégation occupationnelle (femmes concentrées dans certains métiers) est très documentée. La ségrégation dans les loisirs l’est beaucoup moins.\n\n\n\n\n\n\nTipC’est là qu’intervient ce projet\n\n\n\nNous proposons un indice qui exploite la variation au sein des catégories de genre — pas seulement entre elles. La page suivante explique pourquoi l’outil standard (l’indice de Duncan) ne suffit pas.\n\n\n→ Comprendre l’indice de Duncan"
+  },
+  {
+    "objectID": "duncan.html",
+    "href": "duncan.html",
+    "title": "L’indice de Duncan",
+    "section": "",
+    "text": "L’indice de Duncan (1955) est l’outil le plus utilisé pour mesurer la ségrégation de genre. Son principe est d’une simplicité désarmante : pour une pratique donnée, combien de femmes la font, combien d’hommes la font, et quelle est la différence ?\n\\[D_k = \\bar{y}_{k,\\text{hommes}} - \\bar{y}_{k,\\text{femmes}}\\]\n\n\n\n\n\n\nNoteComment lire cette formule\n\n\n\n\n\\(D_k\\) est l’indice pour la pratique \\(k\\)\n\\(\\bar{y}_{k,\\text{hommes}}\\) est le taux de participation des hommes à cette pratique (entre 0 et 1)\n\\(\\bar{y}_{k,\\text{femmes}}\\) est le taux de participation des femmes\n\nUn résultat positif → les hommes pratiquent plus. Négatif → les femmes pratiquent plus. Zéro → égalité."
+  },
+  {
+    "objectID": "duncan.html#lidée-de-base-comparer-deux-taux",
+    "href": "duncan.html#lidée-de-base-comparer-deux-taux",
+    "title": "L’indice de Duncan",
+    "section": "",
+    "text": "L’indice de Duncan (1955) est l’outil le plus utilisé pour mesurer la ségrégation de genre. Son principe est d’une simplicité désarmante : pour une pratique donnée, combien de femmes la font, combien d’hommes la font, et quelle est la différence ?\n\\[D_k = \\bar{y}_{k,\\text{hommes}} - \\bar{y}_{k,\\text{femmes}}\\]\n\n\n\n\n\n\nNoteComment lire cette formule\n\n\n\n\n\\(D_k\\) est l’indice pour la pratique \\(k\\)\n\\(\\bar{y}_{k,\\text{hommes}}\\) est le taux de participation des hommes à cette pratique (entre 0 et 1)\n\\(\\bar{y}_{k,\\text{femmes}}\\) est le taux de participation des femmes\n\nUn résultat positif → les hommes pratiquent plus. Négatif → les femmes pratiquent plus. Zéro → égalité."
+  },
+  {
+    "objectID": "duncan.html#un-exemple-concret-les-jeux-vidéo",
+    "href": "duncan.html#un-exemple-concret-les-jeux-vidéo",
+    "title": "L’indice de Duncan",
+    "section": "Un exemple concret : les jeux vidéo",
+    "text": "Un exemple concret : les jeux vidéo\n\n  \n    \n      Hommes\n      \n        \n          55 %\n        \n      \n    \n    \n      Femmes\n      \n        \n          23 %\n        \n      \n    \n  \n  \n    D = 55% − 23% = +0,32\n    → Pratique à dominante masculine\n  \n\nPour le tricot, l’ordre s’inverse : les femmes pratiquent beaucoup plus, \\(D\\) est négatif."
+  },
+  {
+    "objectID": "duncan.html#ce-que-duncan-mesure-bien",
+    "href": "duncan.html#ce-que-duncan-mesure-bien",
+    "title": "L’indice de Duncan",
+    "section": "Ce que Duncan mesure bien",
+    "text": "Ce que Duncan mesure bien\n✅ Simple à calculer : deux taux, une soustraction.\n✅ Facile à interpréter : \\(D = +0,30\\) signifie 30 points d’écart.\n✅ Comparable : on peut classer toutes les pratiques sur une même échelle.\n✅ Robuste : ne dépend pas d’hypothèses complexes sur la distribution des données."
+  },
+  {
+    "objectID": "duncan.html#le-problème-fondamental-lhomogénéité-supposée",
+    "href": "duncan.html#le-problème-fondamental-lhomogénéité-supposée",
+    "title": "L’indice de Duncan",
+    "section": "Le problème fondamental : l’homogénéité supposée",
+    "text": "Le problème fondamental : l’homogénéité supposée\nDuncan suppose que tous les hommes sont identiques — et toutes les femmes aussi. C’est là que le bât blesse.\n\n  \n    Groupe « Hommes »\n    \n      \n      \n      \n      \n      \n      \n    \n    Duncan voit ça…\n    → une seule valeur moyenne\n  \n\n  \n    La réalité\n    \n      \n      \n        \n          \n          \n        \n      \n      \n      pôle féminin\n      pôle masculin\n      \n      \n      \n      \n      \n      \n      \n      homme 1\n      homme 2\n      homme 3\n      hommes 4-5\n      \n      \n      \n      \n    \n    …mais les hommes sont éparpillés sur le spectre\n  \n\nLa conséquence pratique : deux pratiques peuvent avoir le même \\(D_k\\) mais des profils très différents. Une pratique peut être faite uniquement par les hommes les plus masculins (fort signal identitaire) ou par tous les hommes indifféremment (faible signal) — Duncan ne fait pas la différence."
+  },
+  {
+    "objectID": "duncan.html#lanalogie-des-revenus-moyens",
+    "href": "duncan.html#lanalogie-des-revenus-moyens",
+    "title": "L’indice de Duncan",
+    "section": "L’analogie des revenus moyens",
+    "text": "L’analogie des revenus moyens\nComparer des moyennes de groupe cache toujours la distribution interne. Imaginez qu’on veuille comparer la richesse de deux pays :\n\n  Pays A : revenu moyen 2 000 € — mais 90 % des gens ont 500 € et 10 % ont 16 500 €\n  Pays B : revenu moyen 2 000 € — distribution uniforme\n  → Même moyenne, situations très différentes. Duncan fait la même erreur avec le genre."
+  },
+  {
+    "objectID": "duncan.html#ce-que-lindice-de-duncan-ne-peut-pas-voir",
+    "href": "duncan.html#ce-que-lindice-de-duncan-ne-peut-pas-voir",
+    "title": "L’indice de Duncan",
+    "section": "Ce que l’indice de Duncan ne peut pas voir",
+    "text": "Ce que l’indice de Duncan ne peut pas voir\n\n  \n    🎣\n    \n      La pêche — peu de pratiquants au total, \n      hommes et femmes en proportion à peu près égale → D ≈ 0. \n      Mais parmi ceux qui pêchent, c'est presque exclusivement \n      des personnes à forte identité masculine. Duncan dit \"neutre\". \n      Notre indice dit \"très masculin\".\n    \n  \n  \n    🎵\n    \n      La musique — taux proches entre hommes et femmes → D ≈ 0.\n      Mais est-ce vraiment neutre, ou est-ce que des profils identitaires \n      très différents se neutralisent dans la moyenne ?\n      Notre indice permet de le vérifier.\n    \n  \n\n\n\n\n\n\n\nTipLa page suivante\n\n\n\nPour aller plus loin, il faut une mesure de l’identité — pas seulement du sexe déclaré. C’est ce qu’explique la page sur la mesure de l’identité.\n\n\n→ Comment mesurer l’identité de genre ?"
+  }
+]
